@@ -6,6 +6,7 @@ This script generates an HTML code for an image grid view based on a given list 
 
 1. **Navigate to the project directory**
 3. **Install dependencies:**
+
 Make sure you have Python 3.x installed on your system. Then, install the required dependencies using pip:
 
 ```
